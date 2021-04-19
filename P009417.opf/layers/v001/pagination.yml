@@ -3,135 +3,116 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   7bc3c944dabb4234a3fc4beb440b0aa3:
-    page_index: 1a
-    page_info: null
-    reference: I00EGS10168070001
+    imgnum: 1
+    reference: I00EGS10168070001.tif
     span:
       start: 0
       end: 913
   ea79d7cfbb184c3ebd313ae1c70c3005:
-    page_index: 2a
-    page_info: null
-    reference: I00EGS10168070003
+    imgnum: 3
+    reference: I00EGS10168070003.tif
     span:
       start: 918
       end: 1409
   59f662d51ded48439215a76bb0da7fe4:
-    page_index: 2b
-    page_info: null
-    reference: I00EGS10168070004
+    imgnum: 4
+    reference: I00EGS10168070004.tif
     span:
       start: 1414
       end: 2026
   7d0fef50a9a0499ba767419559023951:
-    page_index: 3a
-    page_info: null
-    reference: I00EGS10168070005
+    imgnum: 5
+    reference: I00EGS10168070005.tif
     span:
       start: 2031
       end: 2955
   21303bbea7384090bb4c65c9f9626622:
-    page_index: 3b
-    page_info: null
-    reference: I00EGS10168070006
+    imgnum: 6
+    reference: I00EGS10168070006.tif
     span:
       start: 2960
       end: 3841
   2d5678296153489282b0c8c2107cb703:
-    page_index: 4a
-    page_info: null
-    reference: I00EGS10168070007
+    imgnum: 7
+    reference: I00EGS10168070007.tif
     span:
       start: 3846
       end: 5185
   19d6be8b8ec94abeb8be8fa797107360:
-    page_index: 4b
-    page_info: null
-    reference: I00EGS10168070008
+    imgnum: 8
+    reference: I00EGS10168070008.tif
     span:
       start: 5190
       end: 6152
   3944d9a523a8474b90d0f6ce31793b89:
-    page_index: 5a
-    page_info: null
-    reference: I00EGS10168070009
+    imgnum: 9
+    reference: I00EGS10168070009.tif
     span:
       start: 6157
       end: 7156
   ea388c17bc204c98a5494cedcb8ecef8:
-    page_index: 5b
-    page_info: null
-    reference: I00EGS10168070010
+    imgnum: 10
+    reference: I00EGS10168070010.tif
     span:
       start: 7161
       end: 8263
   a4500ee7b03a446bac48a5f245d1db1a:
-    page_index: 6a
-    page_info: null
-    reference: I00EGS10168070011
+    imgnum: 11
+    reference: I00EGS10168070011.tif
     span:
       start: 8268
       end: 9773
   91332f94a0774a6aadd653b5100aa0ec:
-    page_index: 6b
-    page_info: null
-    reference: I00EGS10168070012
+    imgnum: 12
+    reference: I00EGS10168070012.tif
     span:
       start: 9778
       end: 11166
   d60c1739bb934e7f9fe61d806a7e13e9:
-    page_index: 7a
-    page_info: null
-    reference: I00EGS10168070013
+    imgnum: 13
+    reference: I00EGS10168070013.tif
     span:
       start: 11171
       end: 12181
   8c832f86bd5f45899f0ce2b6cfddc86d:
-    page_index: 7b
-    page_info: null
-    reference: I00EGS10168070014
+    imgnum: 14
+    reference: I00EGS10168070014.tif
     span:
       start: 12186
       end: 13228
   d21eb96b87ae4701b2db29cf3a895415:
-    page_index: 8a
-    page_info: null
-    reference: I00EGS10168070015
+    imgnum: 15
+    reference: I00EGS10168070015.tif
     span:
       start: 13233
       end: 14436
   f392268ddbc244749b656ae24f0d4ae0:
-    page_index: 8b
-    page_info: null
-    reference: I00EGS10168070016
+    imgnum: 16
+    reference: I00EGS10168070016.tif
     span:
       start: 14441
       end: 15842
   a9a0b776581b4c68858a5a29d7315cd4:
-    page_index: 9a
-    page_info: null
-    reference: I00EGS10168070017
+    imgnum: 17
+    reference: I00EGS10168070017.tif
     span:
       start: 15847
       end: 17085
   3bcbb4c927dc4f8a86da343bff73796d:
-    page_index: 9b
-    page_info: null
-    reference: I00EGS10168070018
+    imgnum: 18
+    reference: I00EGS10168070018.tif
     span:
       start: 17090
       end: 18118
   bf3b617c94be4eb5aa7ceac833673519:
-    page_index: 10a
-    page_info: null
-    reference: I00EGS10168070019
+    imgnum: 19
+    reference: I00EGS10168070019.tif
     span:
       start: 18123
       end: 18684
   5eff10d275ee419396960cf8354704f8:
-    page_index: 10b
-    page_info: null
-    reference: I00EGS10168070020
+    imgnum: 20
+    reference: I00EGS10168070020.tif
     span:
       start: 18689
       end: 18968
